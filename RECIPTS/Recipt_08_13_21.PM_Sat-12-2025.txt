@@ -1,0 +1,8 @@
+[0;34m====================RECEIPT ================
+[0mCode       | Item                 | Category        | Price      | Qty      | Total     
+-----------------------------------------------------------------------------
+STA-101-A01 | Ballpoint Pen Blue   | Stationary      | 30         | 4        | 120       
+BEV-LAY-883 | Lays                 | Beverage        | 50         | 3        | 150       
+KIT-CUT-004 | Knife Set            | Kitchen Utills  | 80         | 4        | 320       
+-----------------------------------------------------------------------------
+                                           Grand Total:        590
