@@ -1,0 +1,131 @@
+STA-101-A01,Ballpoint Pen Blue,Stationary,215,23,20,40,100%,5690
+STA-101-A02,BALLPOINT PEN BLACK,Stationary,121,1,40,40,0%,2920
+STA-101-A11,Lead Pencil HB,Stationary,183,7,10,20,100%,140
+STA-101-A12,Sharpener,Stationary,187,3,15,25,66%,75
+STA-101-A13,Eraser,Stationary,186,4,10,20,100%,80
+STA-101-A14,Geometry Box,Stationary,50,0,150,200,33%,0
+STA-101-A15,Scale S,Stationary,97,3,25,50,100%,120
+STA-101-A16,Notebook Single Line,Stationary,50,0,70,100,42%,0
+STA-101-A22,Register 100 pages,Stationary,40,0,110,150,36%,0
+STA-101-A23,Register 300 pages,Stationary,30,0,220,300,36%,0
+STA-101-A24,Drawing Book,Stationary,25,0,120,170,41%,0
+STA-101-A30,Color Pencils 12 pack,Stationary,43,4,120,180,50%,1260
+STA-101-A31,Marker Black,Stationary,159,7,40,60,50%,2460
+STA-101-A32,Highlighter,Stationary,100,0,50,80,60%,0
+STA-101-A33,Glue Stick,Stationary,48,2,60,90,50%,180
+STA-101-A34,Stapler,Stationary,50,0,150,220,46%,0
+STA-101-A35,Staples Pack,Stationary,100,0,30,50,66%,0
+STA-101-A36,Scissors,Stationary,50,0,80,120,50%,0
+STA-101-A37,Paper Ream,Stationary,13,4,750,900,20%,6300
+STA-101-A38,File Folder,Stationary,100,0,25,40,60%,0
+STA-101-A39,Sticky Notes,Stationary,20,0,60,96,60%,0
+KIT-PAN-001,Frying Pan,Kitchen Utills,10,0,850,1100,29%,0
+KIT-PAN-002,Cooking Pot,Kitchen Utills,20,0,1100,1500,36%,0
+KIT-POT-001,Cooking Pot,Kitchen Utills,20,0,1300,1700,30%,0
+KIT-CUT-001,Steel Spoon,Kitchen Utills,70,0,40,70,75%,0
+KIT-CUT-002,Steel Fork,Kitchen Utills,60,3,40,70,75%,700
+KIT-CUT-003,Steel Knife,Kitchen Utills,63,7,90,140,55%,980
+KIT-CUT-004,Knife Set,Kitchen Utills,10,4,650,80,-87%,800
+KIT-CHB-001,Chopping Board Wood,Kitchen Utills,20,0,200,300,50%,0
+KIT-CHB-002,Chopping Board plastic,Kitchen Utills,25,0,350,500,42%,0
+KIT-PLT-001,Steel Plate,Kitchen Utills,30,0,100,150,50%,0
+KIT-PLT-002,Steel Bowl,Kitchen Utills,31,1,80,120,50%,120
+KIT-PLT-003,Glass Set,Kitchen Utills,30,0,350,350,0%,0
+KIT-PLT-004,Water Jug glass,Kitchen Utills,20,0,200,750,275%,0
+KIT-PLT-005,Water Jug plastic,Kitchen Utills,20,0,550,300,-45%,0
+KIT-PLT-006,Tea Cups,Kitchen Utills,30,0,300,450,50%,0
+KIT-PLT-007,Cooking Spatula,Kitchen Utills,30,0,120,180,50%,0
+KIT-UTI-001,Strainer,Kitchen Utills,25,0,150,220,46%,0
+KIT-UTI-002,Pressure Cooker,Kitchen Utills,20,0,3500,4200,20%,0
+KIT-UTI-003,Rolling Pin,Kitchen Utills,45,0,150,220,46%,0
+KIT-UTI-004,Tea Kettle,Kitchen Utills,25,0,900,1250,38%,0
+KIT-UTI-005,Storage Container Set,Kitchen Utills,30,0,350,500,42%,0
+KIT-UTI-006,Dish Rack,Kitchen Utills,30,0,550,750,36%,0
+BEV-TEA-001,Tea Packet,Beverage,100,0,250,300,20%,0
+BEV-COF-002,Coffee,Beverage,129,2,100,117,17%,16954
+BEV-MIL-003,Milk Pack,Beverage,90,0,220,260,18%,0
+BEV-JUI-004,Mango Juice,Beverage,150,0,120,150,25%,0
+BEV-WAT-005,Mineral Water,Beverage,150,0,60,80,33%,0
+BEV-SOD-006,Soda Drink,Beverage,150,0,90,120,33%,0
+BEV-ENE-007,Energy Drink,Beverage,100,0,220,260,18%,0
+BEV-CHA-008,Chocolate Drink,Beverage,100,0,150,180,20%,0
+BEV-STR-009,Strawberry Milk,Beverage,100,0,100,130,30%,0
+BEV-ORA-010,Orange Juice,Beverage,100,0,130,160,23%,0
+BEV-APP-011,Apple Juice,Beverage,100,0,140,170,21%,0
+BEV-LEM-012,Lemon Water,Beverage,120,0,80,100,25%,0
+BEV-BOT-013,Bottled Cola,Beverage,149,1,180,220,22%,220
+BEV-ICE-014,Iced Tea,Beverage,150,0,90,120,33%,0
+BEV-GRE-015,Green Tea,Beverage,150,0,180,220,22%,0
+BEV-CAN-016,Canned Juice,Beverage,150,0,110,140,27%,0
+BEV-MAL-017,Malt Drink,Beverage,150,0,150,190,26%,0
+BEV-GRA-018,Grapes Juice,Beverage,150,0,130,160,23%,0
+BEV-PIN-019,Pineapple Juice,Beverage,150,0,140,170,21%,0
+BEV-BAN-020,Banana Shake,Beverage,150,0,160,200,25%,0
+HYG-SOP-001,Soap Bar,Hygiene,187,12,80,100,25%,11300
+HYG-SOP-002,Shampoo Bottle,Hygiene,300,0,350,420,20%,0
+HYG-SOP-003,Conditioner,Hygiene,200,0,300,380,26%,0
+HYG-SOP-004,Body Lotion,Hygiene,120,0,450,520,15%,0
+HYG-SOP-005,Toothbrush,Hygiene,200,0,100,140,40%,0
+HYG-SOP-006,Toothpaste,Hygiene,200,0,180,220,22%,0
+HYG-SOP-007,Hand Wash,Hygiene,200,0,200,240,20%,0
+HYG-SOP-008,Nail Cutter,Hygiene,150,0,120,160,33%,0
+HYG-SOP-009,Razor Pack,Hygiene,200,0,200,250,25%,0
+HYG-SOP-010,Tissue Box,Hygiene,200,0,120,150,25%,0
+HYG-SOP-011,Sanitizer,Hygiene,300,0,150,190,26%,0
+HYG-SOP-012,Face Wash,Hygiene,400,0,320,380,18%,0
+HYG-SOP-013,Hair Oil,Hygiene,200,0,200,250,25%,0
+HYG-SOP-014,Body Powder,Hygiene,210,0,170,212,24%,0
+HYG-SOP-015,Face Cream,Hygiene,200,0,250,300,20%,0
+HYG-SOP-016,Scrub Tube,Hygiene,200,0,280,340,21%,0
+HYG-SOP-017,Wet Wipes,Hygiene,200,0,180,220,22%,0
+HYG-SOP-018,Deodorant,Hygiene,250,0,450,520,15%,0
+HYG-SOP-019,Hair Gel,Hygiene,100,0,300,350,16%,0
+HYG-SOP-020,Shower Gel,Hygiene,100,0,280,330,17%,0
+WAS-MIR-001,Mirror,Washroom Utils,100,0,500,550,10%,0
+WAS-MIR-002,Towel,Washroom Utils,200,0,200,240,20%,0
+WAS-MIR-003,Shower Rod,Washroom Utils,200,0,450,500,11%,0
+WAS-MIR-004,Soap Dish,Washroom Utils,300,0,120,150,25%,0
+WAS-MIR-005,Toilet Brush,Washroom Utils,150,0,150,170,13%,0
+WAS-MIR-006,Bathroom Mat,Washroom Utils,200,0,300,340,13%,0
+WAS-MIR-007,Soap Dispenser,Washroom Utils,100,0,250,270,8%,0
+WAS-MIR-008,Tissue Holder,Washroom Utils,50,0,200,250,25%,0
+WAS-MIR-009,Dust Bin,Washroom Utils,50,0,300,370,23%,0
+WAS-MIR-010,Dust Bin large,Washroom Utils,50,0,600,650,8%,0
+WAS-MIR-011,Shower Head,Washroom Utils,100,0,350,400,14%,0
+WAS-MIR-012,Water Tap,Washroom Utils,100,0,200,270,35%,0
+WAS-MIR-013,Bucket,Washroom Utils,180,0,80,100,25%,0
+WAS-MIR-014,Mug,Washroom Utils,150,0,150,200,33%,0
+WAS-MIR-015,Glass Cleaner,Washroom Utils,116,4,220,250,13%,1000
+WAS-MIR-016,Air Freshener,Washroom Utils,300,0,300,370,23%,0
+WAS-MIR-017,Hand Dryer,Washroom Utils,20,0,3000,3800,26%,0
+WAS-MIR-018,Shower Pipe,Washroom Utils,50,0,450,500,11%,0
+WAS-MIR-019,Shower Curtain,Washroom Utils,50,0,120,150,25%,0
+WAS-MIR-020,Toilet Tissue,Washroom Utils,300,0,120,150,25%,0
+WAS-MIR-021,Bathroom Rack,Washroom Utils,100,0,600,680,13%,0
+TLS-HAM-001,Hammer,Tools,100,0,350,420,20%,0
+TLS-HAM-002,Screwdriver Set,Tools,50,0,400,480,20%,0
+TLS-HAM-003,Pliers,Tools,50,0,300,360,20%,0
+TLS-HAM-004,Hand Drill,Tools,20,0,1200,1400,16%,0
+TLS-HAM-005,Measuring Tape,Tools,50,0,150,200,33%,0
+TLS-HAM-006,Cutter Knife,Tools,30,0,100,140,40%,0
+TLS-HAM-007,Wrench Set,Tools,30,0,800,950,18%,0
+TLS-HAM-008,Level Meter,Tools,50,0,550,650,18%,0
+TLS-HAM-009,Hand Saw,Tools,20,0,500,600,20%,0
+TLS-HAM-010,Safety Gloves,Tools,70,0,120,160,33%,0
+TLS-HAM-011,Paint Brush,Tools,40,0,100,140,40%,0
+TLS-HAM-012,Paint Roller,Tools,30,0,200,260,30%,0
+TLS-HAM-013,Sandpaper Pack,Tools,80,0,80,100,25%,0
+TLS-HAM-014,Axe,Tools,30,0,900,1100,22%,0
+TLS-HAM-015,Drill Bits Set,Tools,30,0,600,750,25%,0
+TLS-HAM-016,Tool Box,Tools,40,0,850,1000,17%,0
+TLS-HAM-017,Metal File,Tools,30,0,200,260,30%,0
+TLS-HAM-018,Heat Gun,Tools,20,0,1500,1800,20%,0
+TLS-HAM-019,Step Ladder,Tools,20,0,3500,4000,14%,0
+TLS-HAM-020,Rubber Mallet,Tools,30,0,400,500,25%,0
+BEV-LAY-883,Lays,Beverage,43,4,30,50,66%,350
+BEV-COK-883,Coke 1.5,Beverage,100,0,180,210,16%,0
+BEV-DAI-883,Dairy Milk S,Beverage,150,0,100,150,50%,0
+STA-BOO-883,BOOK LET Us C,Stationary,0,2,400,700,75%,3500
+STA-PEN-883,pen,Stationary,73,5,344,370,7%,9990
+BEV-KIT-883,KitKat,Beverage,20,0,70,150,114%,0
+BEV-SLA-883,Slanty,Beverage,400,0,30,40,33%,0
